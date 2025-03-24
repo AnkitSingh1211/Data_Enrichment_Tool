@@ -1,0 +1,6 @@
+streamlit~=1.43.2
+google~=3.0.0
+protobuf~=5.29.4
+sqlglot~=26.11.1
+pandas~=2.2.3
+google.generativeai~=0.8.4
